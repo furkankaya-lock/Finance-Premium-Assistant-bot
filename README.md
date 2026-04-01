@@ -1,4 +1,4 @@
-# CryptoBot Pro v6.0
+# FinancialPro v6.0
 ### AI Hybrid Crypto Trading Platform
 
 > Multi-agent • Multi-exchange • ICT • LSTM • Real-time dashboard
