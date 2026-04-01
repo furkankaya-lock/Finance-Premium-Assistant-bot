@@ -1,0 +1,13 @@
+# CryptoBot Pro v6.0 — Requirements
+python-binance==1.0.19
+requests==2.31.0
+pandas==2.1.4
+numpy==1.26.2
+scikit-learn==1.4.2
+xgboost==2.0.3
+tensorflow-cpu==2.16.1
+# tensorflow==2.16.1        # NVIDIA GPU
+# tensorflow-metal==1.1.0   # Apple M1/M2
+anthropic==0.25.0
+websockets==12.0
+python-dotenv==1.0.0
